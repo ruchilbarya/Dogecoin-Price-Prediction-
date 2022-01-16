@@ -1,5 +1,5 @@
 # Dogecoin-Price-Prediction-
-Cryptocurrency price prediction using Sentiment Analysis and Deep Learning
+_Cryptocurrency price prediction using Sentiment Analysis and Deep Learning_
 
 
 As social media is becoming an essential part of life, it has increasingly started influencing many complex systems which were not considered before. Recent events like
